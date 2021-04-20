@@ -1,0 +1,58 @@
+body {
+    background: #e2dfdf;
+}
+
+.lib-search-btn {
+    max-width: 100px;
+    height: 40px;
+    background: #e7e5e5;
+    border: 1px solid #cccccc;
+    border-radius: 0%;
+    outline-style: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.lib-search-btn::-moz-focus-outer {
+    outline: none;
+}
+
+.lib-search-input {
+    
+    border: none;
+  border: 1px  solid #cccccc;
+  outline: none;
+  border-radius: 5px 0  0 5px;
+}
+
+.content-title {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:#3881c5;
+    border-bottom: 2px solid #3881c5;
+}
+
+.getter {
+    margin: -1px -55px  9px  -1px;
+    /* cursor: pointer; */
+}
+
+.getter img:hover {
+    background: #817979e7;
+    cursor: pointer;
+}
+
+.lib-search-section {
+    margin-top: 100px;
+}
+.lib-search-result {
+    margin-bottom: 30px;
+
+}
+
+.lib-search-result:hover {
+  box-shadow: 2px 3px 2px #6664641c;
+  border-radius: 10px;
+}
+.lib-spaces-left {
+    justify-content:flex-end;
+}

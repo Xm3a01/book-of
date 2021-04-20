@@ -1,0 +1,1 @@
+<a href="http://docs.google.com/gview?url={{ URL::to('file/file.pdf') }}" target="_blank">Perview</a>
